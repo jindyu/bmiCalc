@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI Calc</string>
+    <string name="height">키(cm)</string>
+    <string name="weight">몸무게(Kg)</string>
+</resources>
